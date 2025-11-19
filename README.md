@@ -42,7 +42,7 @@
    pip install requests
    ```
 
-4. Edit the top section of the file `main.py` and set your [GitHub token](https://github.com/settings/tokens):
+4. Edit the top section of the file `main.py` and set your [GitHub token](https://github.com/settings/tokens) starting at line `33`:
 
    ```python
    # ========== ENTER YOUR GITHUB ACCESS TOKEN HERE ==========
@@ -53,7 +53,8 @@
    
    # ========== DO NOT MODIFY BELOW THIS LINE ================
    ```
-1. Run:
+   
+5. Run:
    ```bash
    python3 main.py
    ```
