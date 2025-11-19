@@ -14,7 +14,7 @@
 
 ## Example Output
 
-…
+<img src="https://github.com/user-attachments/assets/da40c043-fbbc-4737-a200-5a88a18e65f1" alt="Output example" width="300" height="auto" title="Output example" />
 
 ## Requirements
 
